@@ -7,3 +7,6 @@
 
 ## 发送站内信
 ![message](https://github.com/chengxinghao/BBS-club/blob/master/static/message.gif)
+
+## 更改用户设置
+![setting](https://github.com/chengxinghao/BBS-club/blob/master/static/setting.gif)
